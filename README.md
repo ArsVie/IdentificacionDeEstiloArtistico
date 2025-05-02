@@ -1,2 +1,2 @@
 # IdentificacionDeEstiloArtistico
-Este projecto pretende generar un modelo que clasifique una imagen en base a la estilo/movimiento artisitico al que pertenece
+Este projecto pretende generar un modelo que clasifique una imagen en base a la estilo/movimiento artisitico al que pertenece, la base de datos usada pertenece a WikiArt (https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles), son 13 categorias. Se sube un anexa un link a la base de datos preprocesada a una resolucion de 128x128, su peso es de 237mb
